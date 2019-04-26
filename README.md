@@ -1,3 +1,5 @@
+Forked to change the Laravel Version Supported hoping to bring more features to this
+
 # Laraflow Workflow Package
 Laraflow is a standard workflow package for Laravel Eloquent objects. You can define your steps, 
 the transition between the them, callbacks, and validators.  
@@ -6,7 +8,7 @@ the transition between the them, callbacks, and validators.
 ### Installation (via composer)
 You can install the package via composer. The package require Laravel 5.5 or higher
 ```php
-composer require szana8/Laraflow
+composer require msnisha/Laraflow
 ```
 You need to crate the necessary table for the historical data:
 ```php
