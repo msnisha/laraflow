@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "szana8\\Laraflow\\": "src"
+            "msnisha\\Laraflow\\": "src"
         }
     },
     "extra": {
@@ -33,7 +33,7 @@
         },
         "laravel": {
             "providers": [
-                "szana8\\Laraflow\\LaraflowServiceProvider"
+                "msnisha\\Laraflow\\LaraflowServiceProvider"
             ]
         }
     }
