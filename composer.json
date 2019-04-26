@@ -6,10 +6,6 @@
         {
             "name": "Nishanthan",
             "email": "msnishanth@gmail.com"
-        },
-        {
-            "name": "Istvan Szana",
-            "email": "szana8@gmail.com"
         }
     ],
     "minimum-stability": "dev",
