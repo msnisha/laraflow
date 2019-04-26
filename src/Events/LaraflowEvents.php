@@ -1,6 +1,6 @@
 <?php
 
-namespace szana8\Laraflow\Events;
+namespace msnisha\Laraflow\Events;
 
 abstract class LaraflowEvents
 {

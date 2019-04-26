@@ -1,6 +1,6 @@
 <?php
 
-namespace szana8\Laraflow\Exceptions;
+namespace msnisha\Laraflow\Exceptions;
 
 use Illuminate\Validation\ValidationException;
 

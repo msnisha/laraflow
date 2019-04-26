@@ -1,8 +1,8 @@
 <?php
 
-namespace szana8\Laraflow\Listeners;
+namespace msnisha\Laraflow\Listeners;
 
-use szana8\Laraflow\Events\LaraflowTransitionEvents;
+use msnisha\Laraflow\Events\LaraflowTransitionEvents;
 
 class LaraflowHistoryManager
 {

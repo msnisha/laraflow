@@ -1,8 +1,8 @@
 <?php
 
-namespace szana8\Laraflow;
+namespace msnisha\Laraflow;
 
-use szana8\Laraflow\Events\LaraflowTransitionEvents;
+use msnisha\Laraflow\Events\LaraflowTransitionEvents;
 
 interface LaraflowCallbackInterface
 {

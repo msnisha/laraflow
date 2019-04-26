@@ -1,6 +1,6 @@
 <?php
 
-namespace szana8\Laraflow;
+namespace msnisha\Laraflow;
 
 use Illuminate\Database\Eloquent\Model;
 

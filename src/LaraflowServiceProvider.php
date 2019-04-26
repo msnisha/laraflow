@@ -1,8 +1,8 @@
 <?php
 
-namespace szana8\Laraflow;
+namespace msnisha\Laraflow;
 
-use szana8\Laraflow\Traits\EventMap;
+use msnisha\Laraflow\Traits\EventMap;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Events\Dispatcher;
 

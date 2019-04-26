@@ -1,6 +1,6 @@
 <?php
 
-namespace szana8\Laraflow\Validator;
+namespace msnisha\Laraflow\Validator;
 
 use Illuminate\Support\Facades\Validator;
 

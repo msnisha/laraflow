@@ -1,9 +1,9 @@
 <?php
 
-namespace szana8\Laraflow\Traits;
+namespace msnisha\Laraflow\Traits;
 
-use szana8\Laraflow\Events\LaraflowEvents;
-use szana8\Laraflow\Listeners\LaraflowHistoryManager;
+use msnisha\Laraflow\Events\LaraflowEvents;
+use msnisha\Laraflow\Listeners\LaraflowHistoryManager;
 
 trait EventMap
 {

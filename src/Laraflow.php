@@ -1,13 +1,13 @@
 <?php
 
-namespace szana8\Laraflow;
+namespace msnisha\Laraflow;
 
-use szana8\Laraflow\Events\LaraflowEvents;
-use szana8\Laraflow\Validator\LaraflowValidator;
-use szana8\Laraflow\Exceptions\LaraflowException;
-use szana8\Laraflow\Events\LaraflowTransitionEvents;
-use szana8\Laraflow\Validator\LaraflowValidatorInterface;
-use szana8\Laraflow\Exceptions\LaraflowValidatorException;
+use msnisha\Laraflow\Events\LaraflowEvents;
+use msnisha\Laraflow\Validator\LaraflowValidator;
+use msnisha\Laraflow\Exceptions\LaraflowException;
+use msnisha\Laraflow\Events\LaraflowTransitionEvents;
+use msnisha\Laraflow\Validator\LaraflowValidatorInterface;
+use msnisha\Laraflow\Exceptions\LaraflowValidatorException;
 
 class Laraflow implements LaraflowInterface
 {
